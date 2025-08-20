@@ -46,4 +46,4 @@ The dashboard provides the following key insights:
 
 ---
 ## Screenshot
-Dashboard Preview](https://github.com/sanikasatavi/Ski-dashboard/blob/main/ski%20dashboard.png)
+[Dashboard Preview](https://github.com/sanikasatavi/Ski-dashboard/blob/main/ski%20dashboard.png)
