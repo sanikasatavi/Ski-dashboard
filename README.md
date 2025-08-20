@@ -45,3 +45,5 @@ The dashboard provides the following key insights:
 - 🎯 **Business impact** – Helps tourism analysts, travelers, and decision-makers compare global ski resorts effectively  
 
 ---
+## Screenshot
+Dashboard Preview](https://github.com/sanikasatavi/Ski-dashboard/blob/main/ski%20dashboard.png)
